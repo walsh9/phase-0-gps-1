@@ -9,6 +9,6 @@ A block
 of code
 ```
 
-
+A change.
 
 A different small change
