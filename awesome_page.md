@@ -5,7 +5,7 @@
 `A code block?`
 
 ```
-A blocc
+A blocK
 of code
 ```
 
